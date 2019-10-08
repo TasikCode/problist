@@ -1,5 +1,5 @@
 # problist
 An problem archive app for Tasikmalaya
 
-The idea behind this app is to archive a list of problem from the citizen. This is an open project, so if you were lived in Tasikmalaya and had an interest to get involve in this project, you may fork this repo and built this thing together.
-This project use Codeigniter 3 and Bootstrap 4. 
+The idea behind this app is to archive a list of problem from the citizen. This is an open project, so if you were lived in Tasikmalaya and had an interest to get involve in this project, you may fork this repo and built this thing together.<br>
+<br>This project use :<br>Codeigniter 3 https://codeigniter.com<br>Bootstrap 4 https://getbootstrap.com<br>Ion-Auth https://github.com/benedmunds/CodeIgniter-Ion-Auth. 
