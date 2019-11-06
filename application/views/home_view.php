@@ -48,6 +48,15 @@
 
             <!-- Masthead Subheading -->
             <p class="masthead-subheading font-weight-light mb-0">Laporkan Permasalahan Yang Ada Di Tasikmalaya</p>
+            <center>
+                <a href="#" class="btn btn-default right-space">DOKUMEN & PERIZINAN</a>
+                <a href="#" class="btn btn-default right-space">TRANTIB</a>
+                <a href="#" class="btn btn-default right-space">PERUMAHAN & BANGUNAN</a>
+                <a href="#" class="btn btn-default right-space">KESEHATAN</a>
+                <a href="#" class="btn btn-default right-space">TRANSPORTASI & JALAN</a>
+                <a href="#" class="btn btn-default right-space">INTERNET & TELEKOMUNIKASI</a>
+                <a href="#" class="btn btn-default right-space">LINGKUNGAN & PERSAMPAHAN</a>
+            </center>
 
         </div>
     </header>
@@ -82,25 +91,6 @@
                     </tbody>
                 </table>
             </div>
-
-
-
-
-            <!-- Portfolio Grid Items -->
-            <div class="row">
-                <!-- Portfolio Item 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
-                        <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                            <div class="portfolio-item-caption-content text-center text-white">
-                                <i class="fas fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img class="img-fluid" src="img/portfolio/cabin.png" alt="">
-                    </div>
-                </div>
-
-        </div>
     </section>
 
 
