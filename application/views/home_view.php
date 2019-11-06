@@ -48,7 +48,7 @@
             <img class="masthead-avatar mb-5" src="<?php echo base_url();?>assets/img/laporkabayan.png" alt="laporkabayan">
 
             <!-- Masthead Subheading -->
-            <p class="masthead-subheading font-weight-light mb-0">Laporkan Permasalahan Yang Ada Di Tasikmalaya</p><br><br>
+            <p class="masthead-subheading font-weight-light mb-0 space-below">Laporkan Permasalahan Yang Ada Di Tasikmalaya</p>
             <center>
                 <a href="#" class="btn btn-info right-space">DOKUMEN & PERIZINAN</a>
                 <a href="#" class="btn btn-info right-space">TRANTIB</a>
