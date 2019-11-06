@@ -47,15 +47,15 @@
             <img class="masthead-avatar mb-5" src="<?php echo base_url();?>assets/img/laporkabayan.png" alt="laporkabayan">
 
             <!-- Masthead Subheading -->
-            <p class="masthead-subheading font-weight-light mb-0">Laporkan Permasalahan Yang Ada Di Tasikmalaya</p>
+            <p class="masthead-subheading font-weight-light mb-0">Laporkan Permasalahan Yang Ada Di Tasikmalaya</p><br><br>
             <center>
-                <a href="#" class="btn btn-default right-space">DOKUMEN & PERIZINAN</a>
-                <a href="#" class="btn btn-default right-space">TRANTIB</a>
-                <a href="#" class="btn btn-default right-space">PERUMAHAN & BANGUNAN</a>
-                <a href="#" class="btn btn-default right-space">KESEHATAN</a>
-                <a href="#" class="btn btn-default right-space">TRANSPORTASI & JALAN</a>
-                <a href="#" class="btn btn-default right-space">INTERNET & TELEKOMUNIKASI</a>
-                <a href="#" class="btn btn-default right-space">LINGKUNGAN & PERSAMPAHAN</a>
+                <a href="#" class="btn btn-info right-space">DOKUMEN & PERIZINAN</a>
+                <a href="#" class="btn btn-info right-space">TRANTIB</a>
+                <a href="#" class="btn btn-info right-space">PERUMAHAN & BANGUNAN</a>
+                <a href="#" class="btn btn-info right-space">KESEHATAN</a>
+                <a href="#" class="btn btn-info right-space">TRANSPORTASI & JALAN</a>
+                <a href="#" class="btn btn-info right-space">INTERNET & TELEKOMUNIKASI</a>
+                <a href="#" class="btn btn-info right-space">LINGKUNGAN & PERSAMPAHAN</a>
             </center>
 
         </div>
