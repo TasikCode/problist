@@ -128,28 +128,28 @@
                         <div class="control-group">
                             <div class="form-group floating-label-form-group controls mb-0 pb-2">
                                 <label>Nama</label>
-                                <input class="form-control" id="name" name="nama" type="text" placeholder="Name" required="required" data-validation-required-message="Please enter your name.">
+                                <input class="form-control" id="name" name="nama" type="text" placeholder="Nama" required="required" data-validation-required-message="Please enter your name.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="control-group">
                             <div class="form-group floating-label-form-group controls mb-0 pb-2">
                                 <label>Alamat Email</label>
-                                <input class="form-control" id="email" name="email" type="email" placeholder="Email Address" required="required" data-validation-required-message="Please enter your email address.">
+                                <input class="form-control" id="email" name="email" type="email" placeholder="Email" required="required" data-validation-required-message="Please enter your email address.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="control-group">
                             <div class="form-group floating-label-form-group controls mb-0 pb-2">
                                 <label>Nomor Telepon</label>
-                                <input class="form-control" id="phone" name="no_tel" type="tel" placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number.">
+                                <input class="form-control" id="phone" name="no_tel" type="tel" placeholder="Nomor Telepon" required="required" data-validation-required-message="Please enter your phone number.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="control-group">
                             <div class="form-group floating-label-form-group controls mb-0 pb-2">
                                 <label>Pesan</label>
-                                <textarea class="form-control" id="message" name="pesan" rows="5" placeholder="Message" required="required" data-validation-required-message="Please enter a message."></textarea>
+                                <textarea class="form-control" id="message" name="pesan" rows="5" placeholder="Pesan" required="required" data-validation-required-message="Please enter a message."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
