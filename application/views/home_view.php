@@ -50,6 +50,7 @@
             <!-- Masthead Subheading -->
             <br><br><br>
             <center>
+                <p>Ayo ikut berpartisipasi, Kirimkan ide, saran, keluhan terkait permasalahan yang kamu rasakan di Kota Tasikmalaya supaya kita bisa melakukan upaya bersama untuk menghadirkan solusinya. Laporan-laporan yang masuk menjadi bahan pertimbangan kami di #tasikcode untuk mengembangkan alat-alat yang mungkin bisa membantu mengatasi masalah-masalah yang dilaporkan. Silahkan cantumkan laporan sesuai kategori tidak paciweuh ya guys!</p><br><br>
                 <a href="#" class="btn btn-info right-space">DOKUMEN & PERIZINAN</a>
                 <a href="#" class="btn btn-info right-space">TRANTIB</a>
                 <a href="#" class="btn btn-info right-space">PERUMAHAN & BANGUNAN</a>
