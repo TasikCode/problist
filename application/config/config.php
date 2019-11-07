@@ -32,7 +32,7 @@ if (isset($_SERVER["HTTPS"]) && $_SERVER["HTTPS"] === "on") {
     $connection = "https://";
 }
 
-$config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . '/problist/';
+$config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . '/';
 
 /*
 |--------------------------------------------------------------------------
