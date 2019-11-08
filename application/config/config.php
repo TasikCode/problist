@@ -32,7 +32,7 @@ if (isset($_SERVER["HTTPS"]) && $_SERVER["HTTPS"] === "on") {
     $connection = "https://";
 }
 
-$config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . '/problist/';
+$config['base_url'] = 'http://' . $_SERVER['SERVER_NAME'] . '/';
 
 /*
 |--------------------------------------------------------------------------
@@ -385,12 +385,21 @@ $config['encryption_key'] = '';
 | Other session cookie settings are shared with the rest of the application,
 | except for 'cookie_prefix' and 'cookie_httponly', which are ignored here.
 |
-*/
+
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_expiration'] = 0;
 // $config['sess_save_path'] = NULL;
 $config['sess_save_path'] = APPPATH . 'session/';
+$config['sess_match_ip'] = FALSE;
+$config['sess_time_to_update'] = 300;
+$config['sess_regenerate_destroy'] = FALSE;
+*/
+
+$config['sess_driver'] = 'database';
+$config['sess_cookie_name'] = 'ci_session';
+$config['sess_expiration'] = 7200;
+$config['sess_save_path'] = 'ci_sessions';
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
 $config['sess_regenerate_destroy'] = FALSE;
@@ -537,3 +546,7 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
+
+$config['google_key'] = '6LfEkcEUAAAAAFOcqs3XtvC9RUCyIrGIMbiN85cw';
+
+$config['google_secret'] = '6LfEkcEUAAAAAIQ39fM6edC170if1-EvwlMs7uXf';
