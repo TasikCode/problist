@@ -9,6 +9,12 @@
 
     <title>Lapor Kabayan - Tasikmalaya Crowdsource Problem Archive</title>
 
+    <meta property="og:url"                content="https://laporkabayan.online" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="Lapor Kabayan" />
+    <meta property="og:description"        content="Ayo ikut berpartisipasi, Kirimkan ide, saran, keluhan atau permasalahan yang kamu rasakan di Kota Tasikmalaya supaya kita bisa melakukan upaya bersama untuk menghadirkan solusinya." />
+    <meta property="og:image"              content="https://lapporkabayan.online/assets/img/share-image.png" />
+
     <!-- Custom fonts for this theme -->
     <link href="<?= base_url(); ?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="<?= base_url(); ?>assets/css/custom.css" rel="stylesheet" type="text/css">
