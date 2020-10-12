@@ -6206,6 +6206,7 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #1abc9c !important;
+  background-image: url('https://cnet1.cbsistatic.com/img/HbrZytsIzoO9sh0aJYYHaWtmcHU=/1092x0/2019/06/04/aed75c2a-c026-45a5-83f0-d2f0974ed9df/20190603-wwdc-story-developers-02.jpg') !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Lapor Kabayan Yuk!</title>
+	<title>Coder who loves Tasikmalaya!</title>
 </head>
 <body>
